@@ -1,0 +1,44 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /Users/thegodfather/Documents/VSCODE/Scala/Playground/DOOBIE/postgrestrial/doobieee/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$generic$macro$18$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$generic$macro$28$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$generic$macro$18$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$macro$10$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$generic$macro$18$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$macro$10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$macro$10$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$macro$16$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$generic$macro$18$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$generic$macro$28$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$generic$macro$18$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$macro$10$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$generic$macro$18$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$macro$10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$macro$10$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$macro$16$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$generic$macro$18$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$generic$macro$28$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Interface$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$generic$macro$18$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$macro$10$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$generic$macro$18$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$macro$10$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$macro$10$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB$anon$macro$16$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RoomsDB.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/thegodfather/Documents/VSCODE/Scala/Playground/DOOBIE/postgrestrial/doobieee/target/scala-2.13/classes.bak[0m

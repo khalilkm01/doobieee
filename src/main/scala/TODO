@@ -1,0 +1,11 @@
+TODO LIST
+
+Add Timing into the checkout system
+Be able to extend the checking out system
+Fix the date system on the person case class etc
+
+
+
+
+IMPORTANT: 
+Cannot Add people/Register people to the db yet, need to work on fix
