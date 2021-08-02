@@ -13,8 +13,8 @@ scalaVersion := "2.13.3"
 
 // It's possible to define many kinds of settings, such as:
 
-name := "hello-world"
-organization := "ch.epfl.scala"
+name := "Hotel-Management"
+organization := "com.TheGodFather"
 version := "1.0"
 
 // Note, it's not required for you to define these three settings. These are
@@ -36,10 +36,7 @@ libraryDependencies ++= Seq(
   "org.tpolecat" %% "doobie-quill"     % "0.12.1",          // Support for Quill 3.6.1
   "org.tpolecat" %% "doobie-specs2"    % "0.12.1" % "test", // Specs2 support for typechecking statements.
   "org.tpolecat" %% "doobie-scalatest" % "0.12.1" % "test",  // ScalaTest support for typechecking statements.
-  "org.scala-lang.modules" %% "scala-parser-combinators" % "1.1.2",
-  "com.typesafe.akka" %% "akka-actor-typed" % AkkaVersion,// Akka Imports
-  "com.typesafe.akka" %% "akka-stream" % AkkaVersion,
-  "com.typesafe.akka" %% "akka-http" % AkkaHttpVersion
+  "org.wvlet.airframe" %% "airframe-http-finagle" % "20.7.0" //Airframe HTTP
 
   )
 

@@ -3,6 +3,7 @@ TODO LIST
 Add Timing into the checkout system
 Be able to extend the checking out system
 Fix the date system on the person case class etc
+Rewire all requests through Domain and create an authentication barrier
 
 
 

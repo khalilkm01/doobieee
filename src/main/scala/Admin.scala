@@ -1,6 +1,5 @@
 package Main
 
-import RoomsDB._
 
 object Admin extends AdminControls{
     def getRooms: List[Room] = RoomsDB.getAvailableRooms ::: RoomsDB.getBookedRooms
